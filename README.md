@@ -2,7 +2,7 @@
 
 #  Conversational Movie Recommender System
 
-A hands-on NLP & LLM-powered movie recommendation system that understands natural language conversations and suggests movies based on **genre**, **sentiment**, **year**, and **user preferences**.
+A hands-on with LLM-powered movie recommendation system that understands natural language conversations and suggests movies based on **genre**, **sentiment**, **year**, and **user preferences**.
 
 ---
 
