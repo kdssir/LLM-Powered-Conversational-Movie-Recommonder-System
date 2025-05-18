@@ -9,7 +9,7 @@ A hands-on NLP & LLM-powered movie recommendation system that understands natura
 ##  Features
 
 -  **LangChain** for natural language understanding
--  Extracts user preferences (genre, year, sentiment) via LLM or local NLP
+-  Extracts user preferences (genre, year, sentiment) via LLM.
 -  Movie recommendations using **FAISS** vector similarity
 -  Frontend built with **Streamlit**
 -  Easily extensible with custom datasets and models
@@ -96,5 +96,5 @@ Suggest me an emotional Bollywood drama from the early 2000s
 - [Streamlit](https://streamlit.io/)
 - [scikit-learn](https://scikit-learn.org/)
 - [HuggingFace Transformers](https://huggingface.co/)
-- [FastAPI] (https://fastapi.tiangolo.com)
+- [FastAPI](https://fastapi.tiangolo.com)
 - [FAISS](https://github.com/facebookresearch/faiss)
